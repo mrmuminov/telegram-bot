@@ -1,0 +1,11 @@
+{
+  "name": "mrmuminov/test-tizim-bot",
+  "require": {
+    "telegram-bot/api": "^2.3",
+    "gabordemooij/redbean": "dev-master",
+    "mrmuminov/php-i18n": "^1.0",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-pdo": "*"
+  }
+}
