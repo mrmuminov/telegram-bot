@@ -1,5 +1,5 @@
 {
-  "name": "mrmuminov/test-tizim-bot",
+  "name": "mrmuminov/php-i18n",
   "require": {
     "telegram-bot/api": "^2.3",
     "gabordemooij/redbean": "dev-master",
