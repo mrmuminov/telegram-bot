@@ -14,6 +14,6 @@
 
 ### Requirements
 * PHP version 7.0 or higher
-* https://github.com/Telegram/Api for telegram bot methods. (`telegram-bot/api`)
+* https://github.com/TelegramBot/Api for telegram bot methods. (`telegram-bot/api`)
 * https://github.com/gabordemooij/redbean for woking database (`gabordemooij/redbean`)
 * https://github.com/mrmuminov/php-i18n for internationalization (`mrmuminov/php-i18n`)
