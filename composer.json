@@ -1,5 +1,7 @@
 {
   "name": "mrmuminov/telegram-bot",
+  "author": "Bahriddin Mo'minov",
+  "locense": "MIT",
   "require": {
     "telegram-bot/api": "^2.3",
     "gabordemooij/redbean": "dev-master",
