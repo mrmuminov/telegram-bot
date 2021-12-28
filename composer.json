@@ -1,6 +1,7 @@
 {
   "name": "mrmuminov/telegram-bot",
   "license": "MIT",
+  "description": "PHP template for telegram bot",
   "authors": [
     {
       "name": "Bahriddin Mo'minov",
