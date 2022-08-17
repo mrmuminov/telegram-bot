@@ -16,5 +16,15 @@
     "ext-curl": "*",
     "ext-json": "*",
     "ext-pdo": "*"
+  },
+  "scripts": {
+    "pre-install-cmd": [
+      "php -r \"copy('config/exam.params.php', 'config/params.php');\""
+    ]
+  },
+  "autoload": {
+    "files": [
+      "config/params.php"
+    ]
   }
 }
