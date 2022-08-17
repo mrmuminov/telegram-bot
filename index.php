@@ -11,6 +11,7 @@ use TelegramBot\Api\Types\Inline\InlineKeyboardMarkup;
 
 require_once "vendor/autoload.php";
 
+$params = require "config/params.php";
 $i18n = new I18n([
     'languages' => $params['languages'],
     'language' => $params['defaultLanguage'],
